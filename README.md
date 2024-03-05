@@ -1,2 +1,2 @@
-# LCFN：A Longitudinal Medical Images Analysis Framework Based on Feature Contrast and Fusion 
+# LOMIA-T: A Transformer-based LOngitudinal Medical Image Analysis framework for predicting treatment response of esophageal cancer
 #### Code will be coming soon....

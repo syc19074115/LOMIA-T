@@ -1,2 +1,2 @@
 # LOMIA-T: A Transformer-based LOngitudinal Medical Image Analysis framework for predicting treatment response of esophageal cancer
-#### Code will be coming soon....
+#### Please pay attention to the follow-up work for more details： XXXXXXXXX
